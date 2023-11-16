@@ -2,7 +2,7 @@
 
 Users cars is an application that has front-end & back-end for creating, getting and listing cars by users.
 
-- Made with Spring Boot and ReactJs.
+- Made with Java, Spring Boot and TypeScript, React.
 - Front-end serves at ```localhost:3000```
 - Back-end serves at ```localhost:8080```
 - Axios & MUI React component library were used for front-end.
